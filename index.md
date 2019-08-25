@@ -28,4 +28,4 @@ Project Goals:
 
 ---
 
-[All Updates <i class="fas fa-angle-double-right" aria-hidden="true"></i>](/updates/)
+[All Updates <i class="fas fa-angle-double-right" aria-hidden="true"></i>]({{ '/updates/' | relative_url }})
