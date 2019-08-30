@@ -111,8 +111,10 @@ defaults:
       path: "index.md"
     values:
       layout: simplemain
-      author_profile: true
-      classes: wide
+  - scope:
+      path: "_pages/about.md"
+    values:
+      permalink: /about/
 
 head_scripts:
   - https://identity.netlify.com/v1/netlify-identity-widget.js
