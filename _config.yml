@@ -108,6 +108,9 @@ defaults:
       layout: single
       author_profile: true
 
+head_scripts:
+  - https://identity.netlify.com/v1/netlify-identity-widget.js
+
 category_archive:
   type: liquid
   path: /categories/
