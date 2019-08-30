@@ -1,0 +1,34 @@
+backend:
+  name: git-gateway
+  branch: master # Branch to update
+media_folder: "assets/images" # Media files will be stored in the repo under img/drafts
+collections:
+- name: "pages"
+  label: "Pages"
+  files:
+    - label: "About Page"
+      name: "about"
+      file: "_pages/about.md"
+      fields:
+        - {label: "Title (used for links to page)", name: "title", widget: "string"}
+        - {label: "Meta Description (ie: summary)", name: "description", widget: "string"}
+        - {label: "Body", name: "body", widget: "markdown"}
+    - label: "Main Page"
+      name: "index"
+      file: "index.md"
+      fields:
+        - {label: "Title (used for links to page)", name: "title", widget: "string"}
+        - {label: "Meta Description (ie: summary)", name: "description", widget: "string"}
+        - {label: "Body", name: "body", widget: "markdown"}
+- name: "posts" # Used in routes, e.g. /admin/collections/blog
+  label: "Posts" # Used in the UI
+  folder: "_posts" # The path to the folder where the documents are stored
+  create: true # Allow users to create new documents in this collection
+  slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template i.e. YYYY-MM-DD-title.md
+  fields: # The fields for each document, usually in front matter
+    - {label: "Title (used for links to page)", name: "title", widget: "string"}
+    - {label: "Meta Description (ie: summary)", name: "description", widget: "string"}
+    - {label: "Publish Date", name: "date", widget: "datetime", required: false}
+    - {label: "Tags", name: "tags", widget: "list"}
+    - {label: "Excerpt (optional)", name: "excerpt", widget: "string", required: false}
+    - {label: "Body", name: "body", widget: "markdown"}

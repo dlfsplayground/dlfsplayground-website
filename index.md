@@ -6,7 +6,7 @@ classes: wide
 #  image: https://source.unsplash.com/Npj_sWuRw68/1200x600
 #  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 title: Expand the Allard School Playground
-excerpt: "The community supported project to expand the overcrowded Dr. Lila Fahlman playground in Allard."
+description: "The community supported project to expand the overcrowded Dr. Lila Fahlman playground in Allard."
 ---
 
 {% include figure image_path="/assets/images/dlfs-current-playground.jpg" alt="The current playground, appropriate for a small number of smaller children" caption="The existing Allard playground (at Dr. Lila Fahlman school) - August 2019" %}

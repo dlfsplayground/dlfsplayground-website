@@ -1,8 +1,6 @@
 ---
 title: "Playground Update: Your assistance needed."
 excerpt_separator: "<!--more-->"
-categories:
-  - Updates
 tags:
   - feedback
   - community
