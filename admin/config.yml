@@ -11,14 +11,13 @@ collections:
       file: "_pages/about.md"
       fields:
         - {label: "Title (used for links to page)", name: "title", widget: "string"}
-        - {label: "Meta Description (ie: summary)", name: "description", widget: "string"}
         - {label: "Body", name: "body", widget: "markdown"}
     - label: "Main Page"
       name: "index"
       file: "index.md"
       fields:
         - {label: "Title (used for links to page)", name: "title", widget: "string"}
-        - {label: "Meta Description (ie: summary)", name: "description", widget: "string"}
+        - {label: "Meta Description (ie: search summary)", name: "description", widget: "text"}
         - {label: "Body", name: "body", widget: "markdown"}
 - name: "posts" # Used in routes, e.g. /admin/collections/blog
   label: "Posts" # Used in the UI
@@ -27,8 +26,8 @@ collections:
   slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template i.e. YYYY-MM-DD-title.md
   fields: # The fields for each document, usually in front matter
     - {label: "Title (used for links to page)", name: "title", widget: "string"}
-    - {label: "Meta Description (ie: summary)", name: "description", widget: "string"}
-    - {label: "Publish Date", name: "date", widget: "datetime", required: false}
+    - {label: "Meta Description (ie: search summary)", name: "description", widget: "text", required: false}
+    - {label: "Publish Date", name: "date", widget: "date"}
     - {label: "Tags", name: "tags", widget: "list"}
-    - {label: "Excerpt (optional)", name: "excerpt", widget: "string", required: false}
+    - {label: "Excerpt", name: "excerpt", widget: "text", required: false}
     - {label: "Body", name: "body", widget: "markdown"}

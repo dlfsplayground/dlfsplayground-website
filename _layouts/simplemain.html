@@ -1,0 +1,16 @@
+---
+layout: single
+---
+
+{{content}}
+
+<h2 id="recent-updates">Recent Updates</h2>
+<div class="grid__wrapper">
+    {% for post in site.posts limit:4 %}
+      {% include archive-single.html %}
+    {% endfor %}
+  </div><div class="cf"></div>
+  <hr />
+  <p>
+      <a href="{{ '/updates/' | relative_url }}">All Updates <i class="fas fa-angle-double-right" aria-hidden="true"></i></a>
+  </p>
