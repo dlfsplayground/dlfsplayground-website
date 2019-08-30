@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: DLFS Playground
+title: Allard Playground
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Dr. Lila Falhman School (& Allard Community) Playground Expansion Homepage
+  Project group to expand and develop the Allard Playground (at Dr. Lila Fahlman school).
 #twitter_username: username
 #github_username: username
 minimal_mistakes_skin: default
@@ -57,9 +57,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "DLFS Playground Development"
+  name   : "Allard Playground Development"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Help us develop and expand the overcrowded playground in Allard."
+  bio    : "Help us expand and develop the overcrowded playground in Allard."
   links:
 #    - label: "Website"
 #      icon: "fas fa-fw fa-link"
