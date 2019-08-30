@@ -1,15 +1,12 @@
 ---
-title: "Playground Update: Your assistance needed."
-excerpt_separator: "<!--more-->"
+title: 'Playground Update: Your assistance needed.'
+date: 2019-08-25T05:54:37.339Z
 tags:
   - feedback
   - community
   - superstore
 ---
-
 The Allard Playground Expansion Committee needs YOUR input this Sunday (Aug 25th, 2019). We have a concept drawing from the city and need feedback from the community.
-
-<!--more-->
 
 This Sunday from 11 am to 1 pm we will be at the Heritage Valley Superstore getting your feedback on the playground expansion concept drawing.
 
