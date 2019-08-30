@@ -107,6 +107,12 @@ defaults:
     values:
       layout: single
       author_profile: true
+  - scope:
+      path: "index.md"
+    values:
+      layout: simplemain
+      author_profile: true
+      classes: wide
 
 head_scripts:
   - https://identity.netlify.com/v1/netlify-identity-widget.js
