@@ -17,8 +17,8 @@ collections:
       file: "index.md"
       fields:
         - {label: "Title (used for links to page)", name: "title", widget: "string"}
-        - {label: "Meta Description (ie: search summary)", name: "description", widget: "text"}
         - {label: "Body", name: "body", widget: "markdown"}
+        - {label: "Excerpt", name: "excerpt", widget: "text"}
 - name: "posts" # Used in routes, e.g. /admin/collections/blog
   label: "Posts" # Used in the UI
   folder: "_posts" # The path to the folder where the documents are stored

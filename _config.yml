@@ -23,6 +23,7 @@ minimal_mistakes_skin: default
 search: true
 repository: dlfsplayground/dlfsplayground-website
 url: https://www.dlfsplayground.com
+og_image: /assets/images/dlfs-current-playground.jpg
 
 # Build settings
 markdown: kramdown
@@ -115,8 +116,6 @@ defaults:
       path: "index.md"
     values:
       layout: simplemain
-      header:
-        og_image: /assets/images/dlfs-current-playground.jpg
   - scope:
       path: "_pages/about.md"
     values:

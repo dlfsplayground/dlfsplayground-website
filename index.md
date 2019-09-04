@@ -1,6 +1,6 @@
 ---
 title: Expand the Allard School Playground
-description: >-
+excerpt: >-
   The community supported project to expand the overcrowded Dr. Lila Fahlman
   playground in Allard.
 ---
