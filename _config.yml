@@ -22,7 +22,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 minimal_mistakes_skin: default
 search: true
 repository: dlfsplayground/dlfsplayground-website
-url: www.dlfsplayground.com
+url: https://www.dlfsplayground.com
 
 # Build settings
 markdown: kramdown
