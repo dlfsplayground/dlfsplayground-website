@@ -56,6 +56,9 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
+social:
+  type: "Organization"
+
 author:
   name   : "Allard Playground Development"
   avatar : "/assets/images/bio-photo.jpg"
@@ -111,6 +114,8 @@ defaults:
       path: "index.md"
     values:
       layout: simplemain
+      header:
+        og_image: /assets/images/dlfs-current-playground.jpg
   - scope:
       path: "_pages/about.md"
     values:
