@@ -6,7 +6,7 @@ tags:
   - feedback
   - urgent
 ---
-Since our funding is now \[confirmed]({% post_url 2019-11-30-playground-expansion-funding-update %}), and construction is rapidly scheduled to begin next summer, we require your **urgent** feedback on the desired equipment for the playground. 
+Since our funding is now [confirmed]({% post_url 2019-11-30-playground-expansion-funding-update %}), and construction is rapidly scheduled to begin next summer, we require your **urgent** feedback on the desired equipment for the playground. 
 
 We request the following information from families:
 
