@@ -4,6 +4,8 @@ date: 2020-04-22T02:34:00.213Z
 tags:
   - update
   - equipment
+header:
+  og_image: /assets/images/playground-view-1.png
 excerpt: See the preview images of the new Allard playground, and where it will
   be relative to the existing one.
 ---
