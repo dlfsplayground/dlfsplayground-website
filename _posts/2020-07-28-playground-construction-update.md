@@ -3,8 +3,11 @@ title: Playground Construction Update
 date: 2020-07-28T22:10:08.705Z
 tags:
   - construction
+  - update
+header:
+  og_image: /assets/images/construction_opt-sm.jpg
 excerpt: The fencing around the construction area for the new playground is up
-  and the equipment has been deleivered. Wilco is the contractor and
+  and the equipment has been delivered. Wilco is the contractor and
   construction is scheduled to begin this week!
 ---
 As you may have seen, there has been fencing put up around the construction area of the park and the equipment has been delivered. As well, the initial survey and locates have been done. 
