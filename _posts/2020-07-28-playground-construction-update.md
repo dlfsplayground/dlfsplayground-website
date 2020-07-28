@@ -12,7 +12,7 @@ excerpt: The fencing around the construction area for the new playground is up
 ---
 As you may have seen, there has been fencing put up around the construction area of the park and the equipment has been delivered. As well, the initial survey and locates have been done. 
 
-![Construction fencing and equipment](/assets/images/construction_opt.jpg "Current image of Playground Construction Site")
+[![Construction fencing and equipment](/assets/images/construction_opt.jpg "Current image of Playground Construction Site")](/assets/images/construction_opt.jpg)
 
 Wilco has been selected by the city as the contractor for this job. They are scheduled to start construction this week, and the weather is looking excellent for that.
 
