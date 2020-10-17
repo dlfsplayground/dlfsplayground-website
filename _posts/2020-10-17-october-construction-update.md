@@ -4,6 +4,8 @@ date: 2020-10-17T19:46:04.255Z
 tags:
   - construction
   - update
+header:
+  og_image: /assets/images/playground1-sm.jpg
 excerpt: It has been a very exciting week with the playground construction!
   Structures are being erected and concreted into the ground. The park's
   completion is slated to be early to mid November, and the grand opening will
